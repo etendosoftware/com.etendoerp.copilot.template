@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+  <vector>
+    <versionInfo version="24.4.1"/>
+    <columnDataChange tablename="OBUIAPP_PROCESS" columnname="ACCESSLEVEL" pkRow="31ED9333E46C419D92E9F1B10F821B91">
+      <oldValue><![CDATA[3]]></oldValue>
+      <newValue><![CDATA[7]]></newValue>
+    </columnDataChange>
+  </vector>
